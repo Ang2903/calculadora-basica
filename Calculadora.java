@@ -26,3 +26,6 @@ public static void main(String[] args) {
 menu();
 }
 }
+//Funcionalidad de reportes (en desarrollo)
+public static void generarReporte(double resultado){
+}
