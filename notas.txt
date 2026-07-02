@@ -1,0 +1,4 @@
+NOtas del proyecto:
+FAlta agregar entrada de datos por teclado
+Falta agregar menu interactivo
+Revisar validacion de numeros decimales
