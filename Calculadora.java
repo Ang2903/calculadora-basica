@@ -26,3 +26,7 @@ public static void main(String[] args) {
 menu();
 }
 }
+// Duncionalidad de login (en desarrollo)
+public static boolean login ( String usuario, String clave){
+return usuario.equals("admin") && clave.equals("1234");
+}
