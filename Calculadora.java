@@ -16,7 +16,7 @@ return 0;
 return a/b;
 }
 public static void menu(){
-System.out.println("Calculadora Basica");
+System.out.println("Calculadora Basica - Modulo Reportes");
 System.out.println("1. Sumar");
 System.out.println("2. Restar");
 System.out.println("3. Multiplicar");
