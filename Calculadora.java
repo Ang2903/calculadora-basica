@@ -16,7 +16,8 @@ return 0;
 return a/b;
 }
 public static void menu(){
-System.out.println("Calculadora Basica - Modulo Login");
+
+System.out.println("Calculadora Basica - Modulo Login y Reportes");
 System.out.println("1. Sumar");
 System.out.println("2. Restar");
 System.out.println("3. Multiplicar");
@@ -26,7 +27,13 @@ public static void main(String[] args) {
 menu();
 }
 }
-// Duncionalidad de login (en desarrollo)
+
+// Funcionalidad de login (en desarrollo)
 public static boolean login ( String usuario, String clave){
 return usuario.equals("admin") && clave.equals("1234");
+}
+//Funcionalidad de reportes (en desarrollo)
+public static void generarReporte(double resultado){
+System.out.println("Reporte: el resultado fue " + resultado);
+}
 }
