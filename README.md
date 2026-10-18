@@ -1,2 +1,2 @@
 # Calculadora Basica
-Proyecto simple en Java que realiza operaciones matematicas basicas: suma, resta, mulriplicacion y division.
+Proyecto simple en Java que realiza operaciones matematicas basicas: suma, resta, multiplicacion y division.
